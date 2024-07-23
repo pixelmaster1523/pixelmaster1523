@@ -1,4 +1,4 @@
-## Hi there I am Tyler, better known as Pixel
+## Hi there, my name is Tyler, better known as Pixel
 I am a student currently studying networking. 
 I have a passion for modded minecraft and often make modpacks as seen on my linked curseforge profile.
 I decided recently that to stop my modpacks from getting too boring or repetitive, I should branch out into actually programming my own mods.
